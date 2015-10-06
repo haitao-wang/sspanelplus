@@ -1,0 +1,6 @@
+.idea
+lib/config.php
+vendor
+composer.lock
+templates_c/
+lib/Ss/Sqlitedb
